@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bilalNoobKhan</string>
+    <string name="teamA">Team A</string>
+    <string name="zero">0</string>
+    <string name="teamB">Team B</string>
+    <string name="pointer1">1 Pointer</string>
+    <string name="pointer2">2 Pointer</string>
+    <string name="pointer3">5 Pointer</string>
+    <string name="panelty">PANELTY</string>
+</resources>
