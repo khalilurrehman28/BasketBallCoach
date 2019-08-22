@@ -33,9 +33,6 @@ public class Home extends AppCompatActivity {
         teamBPanelty = findViewById(R.id.teamBpanelty);
 
 
-
-
-
         teamA1pointer.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
