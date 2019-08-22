@@ -3,7 +3,6 @@ package rehmantech.khalilurrehman.bilalnoobkhan;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -32,6 +31,9 @@ public class Home extends AppCompatActivity {
         teamB2pointer = findViewById(R.id.teamB2pointer);
         teamB5pointer = findViewById(R.id.teamB5pointer);
         teamBPanelty = findViewById(R.id.teamBpanelty);
+
+
+
 
 
         teamA1pointer.setOnClickListener(new View.OnClickListener() {
